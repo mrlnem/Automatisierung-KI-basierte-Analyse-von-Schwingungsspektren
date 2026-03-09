@@ -1,8 +1,8 @@
 {
   "split": "test",
   "total_predicted": 1890,
-  "ok": 1890,
-  "defect": 0,
-  "ok_rate": 1.0,
+  "ok": 596,
+  "defect": 1294,
+  "ok_rate": 0.31534391534391537,
   "skipped_files": 0
 }
